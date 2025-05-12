@@ -24,15 +24,16 @@
 
 aws-terraform-project/
 ├── environments/
-│   └── dev/
-│       ├── s3.tf
-│       ├── cloudfront_oai.tf
-│       ├── bucket_policy.tf
-│       └── cloudfront_distribution.tf
+│ └── dev/
+│ ├── s3.tf
+│ ├── cloudfront_oai.tf
+│ ├── bucket_policy.tf
+│ └── cloudfront_distribution.tf
 ├── site-content/
-│   ├── index.html
-│   └── 404.html
+│ ├── index.html
+│ └── 404.html
 └── README.md
+
 
 ## 🚀 デプロイ手順
 
