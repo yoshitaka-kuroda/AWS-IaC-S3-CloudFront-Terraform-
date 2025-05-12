@@ -1,0 +1,6 @@
+provider "aws" {
+  region = "ap-northeast-1" # 東京リージョン
+}
+
+resource "aws_s3_bucket" "example" {
+  bucket = "my-unique-bucket-name-20250508" # グローバルで一意な名前
