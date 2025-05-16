@@ -1,4 +1,4 @@
-# Terraform Static Site on AWS
+# AWS静的ウェブサイトのIaC自動構築（S3 + CloudFront + Terraform）
 
 このリポジトリは、TerraformによるAWS上の静的Webサイトホスティングのサンプル構成を示します。
 
